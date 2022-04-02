@@ -6,3 +6,4 @@ services:
       api_id: 3704772
       api_hash: b8e50a035abb851c0dd424e14cac4c06
       string: $string
+      TZ: Asia/Dhaka
